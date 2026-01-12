@@ -11,7 +11,7 @@ return(
  function Nav() {
    return (
      <div>
-     <ul><li style={{listStyle:"none"}}><a href='#' style={{textDecoration:"none",color:"#fff"}}>Home</a></li></ul>
+     <ul><li style={{listStyle:"none"}}><a href='#' style={{textDecoration:"none",color:"#fff"}}>Homes</a></li></ul>
      </div>
    )
  }
